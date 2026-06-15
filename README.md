@@ -10,6 +10,12 @@
   </a>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daniell-sec/daniell-sec/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
+
 ---
 ## 📊 GitHub Stats
 
