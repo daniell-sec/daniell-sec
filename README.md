@@ -32,8 +32,8 @@
 - 📚 Studying **Networking, Linux, Python, and Security fundamentals**
 - 🧠 Learning through hands-on projects and labs
 - 🔍 Interested in **Pentesting, Blue Team, and Cloud Security**
-- 🪖 Currently working in the Intelligence area of the Brazilian Army
 - 🌍 Fluent in English and French
+- 🤝 Member of the Information Systems Security Association and ISACA, actively engaging with the global cybersecurity and IT governance community
 ---
 
 ## 🛠️ Tech Stack
